@@ -29,6 +29,8 @@ The script drops and recreates the `library_management` database each time, so i
 
 ## Database Schema
 
+![ER Diagram](er_diagram.png)
+
 **Users**
 
 | Column | Type | Notes |
@@ -116,3 +118,4 @@ The script also includes queries for borrowing history, most borrowed books, and
 ## Skills Demonstrated
 
 Relational design, primary and foreign keys, constraints, joins, aggregation, stored procedures, transactions and row locking, views, and indexing.
+
